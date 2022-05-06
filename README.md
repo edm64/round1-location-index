@@ -8,6 +8,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**BWM**|Broadway Mall|Hicksville|NY| 
 |**CCM**|Coronado Center|Albuquerque|NM| 
 |**CRG**|Galleria at Crystal Run|Middletown|NY| 
+|**DFM**|Deptford Mall|Deptford|NJ| 
 |**ESC**|Eastridge Shopping Center|San Jose|CA| 
 |**EXM**|Exton Square Mall|Exton|PA| 
 |**FSM**|Four Seasons Town Centre|Greensboro|NC| 
@@ -62,6 +63,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**GLC**|Great Lakes Crossing|Auburn Hills|MI| 
 |**FSM**|Four Seasons Town Centre|Greensboro|NC| 
 |**GWM**|Gateway Mall|Lincoln|NE| 
+|**DFM**|Deptford Mall|Deptford|NJ| 
 |**CCM**|Coronado Center|Albuquerque|NM| 
 |**BWM**|Broadway Mall|Hicksville|NY| 
 |**CRG**|Galleria at Crystal Run|Middletown|NY| 
@@ -85,6 +87,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**SSM**|Stratford Square Mall|Bloomingdale|IL| 
 |**PHM**|Puente Hills Mall|City of Industry|CA| 
 |**SVM**|Sunvalley Mall|Concord|CA| 
+|**DFM**|Deptford Mall|Deptford|NJ| 
 |**MCM**|Millcreek Mall|Erie|PA| 
 |**EXM**|Exton Square Mall|Exton|PA| 
 |**GVM**|Grapevine Mills|Grapevine|TX| 
