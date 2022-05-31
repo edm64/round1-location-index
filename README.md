@@ -11,6 +11,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**DFM**|Deptford Mall|Deptford|NJ| 
 |**ESC**|Eastridge Shopping Center|San Jose|CA| 
 |**EXM**|Exton Square Mall|Exton|PA| 
+|**FFC**|Fairfield Commons|Beavercreek|OH| 
 |**FSM**|Four Seasons Town Centre|Greensboro|NC| 
 |**FVM**|Fox Valley Mall|Aurora|IL| 
 |**GLC**|Great Lakes Crossing|Auburn Hills|MI| 
@@ -67,6 +68,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**CCM**|Coronado Center|Albuquerque|NM| 
 |**BWM**|Broadway Mall|Hicksville|NY| 
 |**CRG**|Galleria at Crystal Run|Middletown|NY| 
+|**FFC**|Fairfield Commons|Beavercreek|OH| 
 |**GLM**|Great Lakes Mall|Mentor|OH| 
 |**MCM**|Millcreek Mall|Erie|PA| 
 |**EXM**|Exton Square Mall|Exton|PA| 
@@ -84,6 +86,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**APM**|Arlington Parks|Arlington|TX| 
 |**GLC**|Great Lakes Crossing|Auburn Hills|MI| 
 |**FVM**|Fox Valley Mall|Aurora|IL| 
+|**FFC**|Fairfield Commons|Beavercreek|OH| 
 |**SSM**|Stratford Square Mall|Bloomingdale|IL| 
 |**PHM**|Puente Hills Mall|City of Industry|CA| 
 |**SVM**|Sunvalley Mall|Concord|CA| 
