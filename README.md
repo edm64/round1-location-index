@@ -39,6 +39,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**RNO**|Meadowood Mall|Reno|NV|
 |**SCG**|Silver City Galleria|Taunton|MA|
 |**SCM**|Westfield Southcenter|Tukwila|WA|
+|**SHM**|South Hill Mall|Puyallup|WA|
 |**SLM**|Southland Mall|Hayward|CA|
 |**SRM**|Southridge Mall|Greendale|WI|
 |**SSM**|Stratford Square Mall|Bloomingdale|IL|
@@ -48,6 +49,8 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**SWP**|Southwest Plaza|Littleton|CO|
 |**TES**|Town East Square|Wichita|KS|
 |**TMP**|Promenade Temecula|Temecula|CA|
+|**TTC**|Towson Town Center|Towson|MD|
+|**VCM**|Vancouver Mall|Vancouver|WA|
 |**VRC**|Valley River Center|Eugene|OR|
 
 <details><summary><b>Sorted by State/City (A-Z)</b></summary>
@@ -76,6 +79,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**JFM**|Jefferson Mall|Louisville|KY|
 |**HYM**|Holyoke Mall at Ingleside|Holyoke|MA|
 |**SCG**|Silver City Galleria|Taunton|MA|
+|**TTC**|Towson Town Center|Towson|MD|
 |**MEM**|Maine Mall|South Portland|ME|
 |**GLC**|Great Lakes Crossing|Auburn Hills|MI|
 |**FSM**|Four Seasons Town Centre|Greensboro|NC|
@@ -97,7 +101,9 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**GVM**|Grapevine Mills|Grapevine|TX|
 |**STC**|Shops at South Town|Sandy|UT|
 |**PMM**|Potomac Mills|Woodbridge|VA|
+|**SHM**|South Hill Mall|Puyallup|WA|
 |**SCM**|Westfield Southcenter|Tukwila|WA|
+|**VCM**|Vancouver Mall|Vancouver|WA|
 |**SRM**|Southridge Mall|Greendale|WI|
 </details>
 <details><summary><i>Something missing?</i></summary>
