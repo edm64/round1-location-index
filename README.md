@@ -30,13 +30,16 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**MVM**|Moreno Valley Mall|Moreno Valley|CA|
 |**NRM**|Northridge Mall|Salinas|CA|
 |**NRS**|North Riverside Park Mall|North Riverside|IL|
+|**NSM**|North Star Mall|San Antonio|TX|
 |**NWD**|Northwoods Mall|Peoria|IL|
 |**PCC**|Park City Center|Lancaster|PA|
 |**PHM**|Puente Hills Mall|City of Industry|CA|
+|**PLM**|Pembroke Lakes Mall|Pembroke Pines|FL|
 |**PMM**|Potomac Mills|Woodbridge|VA|
 |**PPM**|Park Place Mall|Tuscon|AZ|
 |**QSM**|Quail Springs Mall|Oklahoma City|OK|
 |**RNO**|Meadowood Mall|Reno|NV|
+|**RVM**|Westfield Galleria at Roseville|Roseville|CA|
 |**SCG**|Silver City Galleria|Taunton|MA|
 |**SCM**|Westfield Southcenter|Tukwila|WA|
 |**SHM**|South Hill Mall|Puyallup|WA|
@@ -64,11 +67,13 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**SLM**|Southland Mall|Hayward|CA|
 |**LWM**|Lakewood Center Mall|Lakewood|CA|
 |**MVM**|Moreno Valley Mall|Moreno Valley|CA|
+|**RVM**|Westfield Galleria at Roseville|Roseville|CA|
 |**NRM**|Northridge Mall|Salinas|CA|
 |**ESC**|Eastridge Shopping Center|San Jose|CA|
 |**MPM**|Main Place Mall|Santa Ana|CA|
 |**TMP**|Promenade Temecula|Temecula|CA|
 |**SWP**|Southwest Plaza|Littleton|CO|
+|**PLM**|Pembroke Lakes Mall|Pembroke Pines|FL|
 |**CLM**|Cumberland Mall|Atlanta|GA|
 |**STM**|The Mall at Stonecrest|Stonecrest|GA|
 |**FVM**|Fox Valley Mall|Aurora|IL|
@@ -99,6 +104,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**PCC**|Park City Center|Lancaster|PA|
 |**APM**|Arlington Parks|Arlington|TX|
 |**GVM**|Grapevine Mills|Grapevine|TX|
+|**NSM**|North Star Mall|San Antonio|TX|
 |**STC**|Shops at South Town|Sandy|UT|
 |**PMM**|Potomac Mills|Woodbridge|VA|
 |**SHM**|South Hill Mall|Puyallup|WA|
