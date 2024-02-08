@@ -5,6 +5,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 | |Location|City|State|
 |:---:|--------|----|-----|
 |**APM**|Arlington Parks|Arlington|TX|
+|**ATC**|Arrowhead Towne Center|Glendale|AZ|
 |**BTC**|Burbank Town Center|Burbank|CA|
 |**BWM**|Broadway Mall|Hicksville|NY|
 |**CCM**|Coronado Center|Albuquerque|NM|
@@ -13,6 +14,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**DFM**|Deptford Mall|Deptford|NJ|
 |**ESC**|Eastridge Shopping Center|San Jose|CA|
 |**EXM**|Exton Square Mall|Exton|PA|
+|**FDP**|Fashion District Philadelphia|Philadelphia|PA|
 |**FFC**|Fairfield Commons|Beavercreek|OH|
 |**FSM**|Four Seasons Town Centre|Greensboro|NC|
 |**FVM**|Fox Valley Mall|Aurora|IL|
@@ -60,6 +62,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 
 | |Location|City|State|
 |:---:|--------|----|-----|
+|**ATC**|Arrowhead Towne Center|Glendale|AZ|
 |**PPM**|Park Place Mall|Tuscon|AZ|
 |**BTC**|Burbank Town Center|Burbank|CA|
 |**PHM**|Puente Hills Mall|City of Industry|CA|
@@ -102,6 +105,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**MCM**|Millcreek Mall|Erie|PA|
 |**EXM**|Exton Square Mall|Exton|PA|
 |**PCC**|Park City Center|Lancaster|PA|
+|**FDP**|Fashion District Philadelphia|Philadelphia|PA|
 |**APM**|Arlington Parks|Arlington|TX|
 |**GVM**|Grapevine Mills|Grapevine|TX|
 |**NSM**|North Star Mall|San Antonio|TX|
