@@ -11,6 +11,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**CCM**|Coronado Center|Albuquerque|NM|
 |**CLM**|Cumberland Mall|Atlanta|GA|
 |**CRG**|Galleria at Crystal Run|Middletown|NY|
+|**DBF**|Danbury Fair|Danbury|CT|
 |**DFM**|Deptford Mall|Deptford|NJ|
 |**ESC**|Eastridge Shopping Center|San Jose|CA|
 |**EXM**|Exton Square Mall|Exton|PA|
@@ -25,6 +26,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**HYM**|Holyoke Mall at Ingleside|Holyoke|MA|
 |**JFM**|Jefferson Mall|Louisville|KY|
 |**LAS**|Meadows Mall|Las Vegas|NV|
+|**LVO**|Las Vegas South Premium Outlets|Las Vegas|NV|
 |**LWM**|Lakewood Center Mall|Lakewood|CA|
 |**MCM**|Millcreek Mall|Erie|PA|
 |**MEM**|Maine Mall|South Portland|ME|
@@ -76,6 +78,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**MPM**|Main Place Mall|Santa Ana|CA|
 |**TMP**|Promenade Temecula|Temecula|CA|
 |**SWP**|Southwest Plaza|Littleton|CO|
+|**DBF**|Danbury Fair|Danbury|CT|
 |**PLM**|Pembroke Lakes Mall|Pembroke Pines|FL|
 |**CLM**|Cumberland Mall|Atlanta|GA|
 |**STM**|The Mall at Stonecrest|Stonecrest|GA|
@@ -95,6 +98,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**DFM**|Deptford Mall|Deptford|NJ|
 |**CCM**|Coronado Center|Albuquerque|NM|
 |**LAS**|Meadows Mall|Las Vegas|NV|
+|**LVO**|Las Vegas South Premium Outlets|Las Vegas|NV|
 |**RNO**|Meadowood Mall|Reno|NV|
 |**BWM**|Broadway Mall|Hicksville|NY|
 |**CRG**|Galleria at Crystal Run|Middletown|NY|
