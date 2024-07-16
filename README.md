@@ -21,6 +21,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**FVM**|Fox Valley Mall|Aurora|IL|
 |**GLC**|Great Lakes Crossing|Auburn Hills|MI|
 |**GLM**|Great Lakes Mall|Mentor|OH|
+|**GUR**|Gurnee Mills|Gurnee|IL|
 |**GVM**|Grapevine Mills|Grapevine|TX|
 |**GWM**|Gateway Mall|Lincoln|NE|
 |**HYM**|Holyoke Mall at Ingleside|Holyoke|MA|
@@ -36,6 +37,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**NRS**|North Riverside Park Mall|North Riverside|IL|
 |**NSM**|North Star Mall|San Antonio|TX|
 |**NWD**|Northwoods Mall|Peoria|IL|
+|**PBO**|Westfield Plaza Bonita|National City|CA|
 |**PCC**|Park City Center|Lancaster|PA|
 |**PHM**|Puente Hills Mall|City of Industry|CA|
 |**PLM**|Pembroke Lakes Mall|Pembroke Pines|FL|
@@ -72,6 +74,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**SLM**|Southland Mall|Hayward|CA|
 |**LWM**|Lakewood Center Mall|Lakewood|CA|
 |**MVM**|Moreno Valley Mall|Moreno Valley|CA|
+|**PBO**|Westfield Plaza Bonita|National City|CA|
 |**RVM**|Westfield Galleria at Roseville|Roseville|CA|
 |**NRM**|Northridge Mall|Salinas|CA|
 |**ESC**|Eastridge Shopping Center|San Jose|CA|
@@ -84,6 +87,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**STM**|The Mall at Stonecrest|Stonecrest|GA|
 |**FVM**|Fox Valley Mall|Aurora|IL|
 |**SSM**|Stratford Square Mall|Bloomingdale|IL|
+|**GUR**|Gurnee Mills|Gurnee|IL|
 |**NRS**|North Riverside Park Mall|North Riverside|IL|
 |**NWD**|Northwoods Mall|Peoria|IL|
 |**TES**|Town East Square|Wichita|KS|
