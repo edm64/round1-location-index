@@ -10,6 +10,7 @@ class column(IntEnum):
     shop = 1
     city = 2
     state= 3
+    zenius=4
 
 tablehead="|:---:|--------|----|-----|"
 
@@ -31,14 +32,17 @@ with open(data_file, 'r', newline="") as data:
 
 # format shop codes in bold
 for line in table_list:
-    line[column.code] = "**"+line[column.code]+"**"
+    if line[column.zenius] == "N/A":
+        line[column.code] = "**"+line[column.code]+"**"
+    else:
+        line[column.code] = "[**"+line[column.code]+"**]"+"("+line[column.zenius]+")"
 
 # convert to string & add markdown separators
-table = ["|".join([""]+line+[""]) for line in table_list]
+table = ["|".join([""]+line[:4]+[""]) for line in table_list if line[column.zenius] != ""]
 
 # reorder for the hidden table
 table_list.sort(key=lambda r: (r[column.state], r[column.city]))
-alt_table = ["|".join([""]+line+[""]) for line in table_list]
+alt_table = ["|".join([""]+line[:4]+[""]) for line in table_list if line[column.zenius] != ""]
 
 # find where the table entries will be inserted
 tablepos1 = readme.index(tablehead)+1
