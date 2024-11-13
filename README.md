@@ -32,6 +32,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**MCM**|Millcreek Mall|Erie|PA|
 |**MEM**|Maine Mall|South Portland|ME|
 |**MPM**|Main Place Mall|Santa Ana|CA|
+|**MVJ**|The Shops at Mission Viejo|Mission Viejo|CA|
 |**MVM**|Moreno Valley Mall|Moreno Valley|CA|
 |**NRM**|Northridge Mall|Salinas|CA|
 |**NRS**|North Riverside Park Mall|North Riverside|IL|
@@ -53,6 +54,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**SRM**|Southridge Mall|Greendale|WI|
 |**SSM**|Stratford Square Mall|Bloomingdale|IL|
 |**STC**|Shops at South Town|Sandy|UT|
+|**STG**|Stonestown Galleria|San Francisco|CA|
 |**STM**|The Mall at Stonecrest|Stonecrest|GA|
 |**SVM**|Sunvalley Mall|Concord|CA|
 |**SWP**|Southwest Plaza|Littleton|CO|
@@ -73,10 +75,12 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**SVM**|Sunvalley Mall|Concord|CA|
 |**SLM**|Southland Mall|Hayward|CA|
 |**LWM**|Lakewood Center Mall|Lakewood|CA|
+|**MVJ**|The Shops at Mission Viejo|Mission Viejo|CA|
 |**MVM**|Moreno Valley Mall|Moreno Valley|CA|
 |**PBO**|Westfield Plaza Bonita|National City|CA|
 |**RVM**|Westfield Galleria at Roseville|Roseville|CA|
 |**NRM**|Northridge Mall|Salinas|CA|
+|**STG**|Stonestown Galleria|San Francisco|CA|
 |**ESC**|Eastridge Shopping Center|San Jose|CA|
 |**MPM**|Main Place Mall|Santa Ana|CA|
 |**TMP**|Promenade Temecula|Temecula|CA|
