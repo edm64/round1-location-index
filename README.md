@@ -9,9 +9,11 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**BTC**|Burbank Town Center|Burbank|CA|
 |**BWM**|Broadway Mall|Hicksville|NY|
 |**CCM**|Coronado Center|Albuquerque|NM|
+|**CHF**|Chandler Fashion Center|Chandler|AZ|
 |**CLM**|Cumberland Mall|Atlanta|GA|
 |**CRG**|Galleria at Crystal Run|Middletown|NY|
 |**DBF**|Danbury Fair|Danbury|CT|
+|**DBK**|Deerbrook Mall|Humble|TX|
 |**DFM**|Deptford Mall|Deptford|NJ|
 |**ESC**|Eastridge Shopping Center|San Jose|CA|
 |**EXM**|Exton Square Mall|Exton|PA|
@@ -68,6 +70,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 
 | |Location|City|State|
 |:---:|--------|----|-----|
+|**CHF**|Chandler Fashion Center|Chandler|AZ|
 |**ATC**|Arrowhead Towne Center|Glendale|AZ|
 |**PPM**|Park Place Mall|Tuscon|AZ|
 |**BTC**|Burbank Town Center|Burbank|CA|
@@ -120,6 +123,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**FDP**|Fashion District Philadelphia|Philadelphia|PA|
 |**APM**|Arlington Parks|Arlington|TX|
 |**GVM**|Grapevine Mills|Grapevine|TX|
+|**DBK**|Deerbrook Mall|Humble|TX|
 |**NSM**|North Star Mall|San Antonio|TX|
 |**STC**|Shops at South Town|Sandy|UT|
 |**PMM**|Potomac Mills|Woodbridge|VA|
