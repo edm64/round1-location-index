@@ -28,6 +28,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**GWM**|Gateway Mall|Lincoln|NE|
 |**HYM**|Holyoke Mall at Ingleside|Holyoke|MA|
 |**JFM**|Jefferson Mall|Louisville|KY|
+|**JSG**|The Mills at Jersey Gardens|Elizabeth|NJ|
 |**LAS**|Meadows Mall|Las Vegas|NV|
 |**LVO**|Las Vegas South Premium Outlets|Las Vegas|NV|
 |**LWM**|Lakewood Center Mall|Lakewood|CA|
@@ -107,6 +108,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**FSM**|Four Seasons Town Centre|Greensboro|NC|
 |**GWM**|Gateway Mall|Lincoln|NE|
 |**DFM**|Deptford Mall|Deptford|NJ|
+|**JSG**|The Mills at Jersey Gardens|Elizabeth|NJ|
 |**CCM**|Coronado Center|Albuquerque|NM|
 |**LAS**|Meadows Mall|Las Vegas|NV|
 |**LVO**|Las Vegas South Premium Outlets|Las Vegas|NV|
